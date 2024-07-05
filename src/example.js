@@ -1,18 +1,11 @@
 export default {
     "tencent": {
-        "playlist": { "show": false, "value": "7326220405" },
-        "song": { "show": true, "value": "002rtEZe45R1rQ" },
-        "lrc": { "show": false, "value": "000i26Sh1ZyiNU" },
-        "pic": { "show": false, "value": "002Rnpvi058Qdm" },
-        "url": { "show": false, "value": "002Rnpvi058Qdm" },
+        "song": { "show": true, "value": "002rtEZe45R1rQ" }
     },
     "netease": {
         "playlist": { "show": true, "value": "2380132810" },
-        "song": { "show": true, "value": "26608738" },
-        "artist": { "show": true, "value": "7763" },
-        "lrc": { "show": false, "value": "2015217630" },
-        "url": { "show": false, "value": "473403185" },
-        "search": { "show": false, "value": "KN33S0XXX" },
+        "song": { "show": true, "value": "30612793" },
+        "artist": { "show": true, "value": "7763" }
     },
     "ytmusic": {
         "playlist": { "show": false, "value": "RDCLAK5uy_l12ynH8dyLsBmE11ToAHLm9P04NS2i9ME" },
