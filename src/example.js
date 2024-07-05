@@ -1,7 +1,7 @@
 export default {
     "tencent": {
         "playlist": { "show": false, "value": "7326220405" },
-        "song": { "show": true, "value": "0025NhlN2yWrP4" },
+        "song": { "show": true, "value": "002rtEZe45R1rQ" },
         "lrc": { "show": false, "value": "000i26Sh1ZyiNU" },
         "pic": { "show": false, "value": "002Rnpvi058Qdm" },
         "url": { "show": false, "value": "002Rnpvi058Qdm" },
